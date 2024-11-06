@@ -1,0 +1,8 @@
+2024-11-06 15:44:30:4430 [31merror[39m: [31m数据库测试失败：[39m
+2024-11-06 15:45:22:4522 [31merror[39m: [31m数据库测试失败：[39m
+2024-11-06 15:45:31:4531 [31merror[39m: [31m数据库测试失败：[39m
+2024-11-06 15:49:16:4916 [31merror[39m: [31mSQL执行错误: Field 'password' doesn't have a default value[39m
+2024-11-06 15:57:14:5714 [31merror[39m: [31m数据库测试失败：[39m
+2024-11-06 16:55:30:5530 [31merror[39m: [31mSQL执行错误: Unknown column 'audio_url' in 'field list'[39m
+2024-11-06 17:26:03:263 [31merror[39m: [31m服务器错误： Expected ',' or '}' after property value in JSON at position 46 (line 1 column 47)[39m
+2024-11-06 17:27:55:2755 [31merror[39m: [31m服务器错误： Expected ',' or '}' after property value in JSON at position 46 (line 1 column 47)[39m
